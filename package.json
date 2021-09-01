@@ -1,6 +1,7 @@
 {
   "name": "shaa-first-node",
   "version": "1.0.0",
+  "engines": {"node": "13.11.0"},
   "description": "my very first nodejs class at shaa",
   "main": "server.js",
   "scripts": {
